@@ -1,0 +1,9 @@
+.map-left-pane {
+    display: none;
+}
+.ymaps-2-1-78-ground-pane {
+    filter: grayscale(1);
+}
+.ymaps-2-1-78-weather-pane {
+    filter: contrast(2) brightness(0.8) saturate(1.5);
+}

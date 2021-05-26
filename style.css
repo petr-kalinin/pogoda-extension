@@ -1,6 +1,9 @@
 .map-left-pane {
     display: none;
 }
+.yandex-header__content {
+    display: none !important;
+}
 .ymaps-2-1-78-ground-pane {
     filter: grayscale(1);
 }

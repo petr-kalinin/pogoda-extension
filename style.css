@@ -4,9 +4,9 @@
 .yandex-header__content {
     display: none !important;
 }
-.ymaps-2-1-78-ground-pane {
+.ymaps-2-1-79-ground-pane {
     filter: grayscale(1);
 }
-.ymaps-2-1-78-weather-pane {
+.ymaps-2-1-79-weather-pane {
     filter: contrast(2) brightness(0.8) saturate(1.5);
 }

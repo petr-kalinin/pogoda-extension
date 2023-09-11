@@ -1,12 +1,12 @@
-.map-left-pane {
-    display: none;
-}
-.yandex-header__content {
+.map-left-pane, .sc-3804a722-0 {
     display: none !important;
 }
-.ymaps-2-1-79-ground-pane {
+.yandex-header__content, .sc-8800060-0 {
+    display: none !important;
+}
+.ymaps-2-1-79-ground-pane, .MultitypeMap_realApiContainer__3TBkW  {
     filter: grayscale(1);
 }
-.ymaps-2-1-79-weather-pane {
+.ymaps-2-1-79-weather-pane, .CanvasLayer_layer__light-overlay__MJOTD {
     filter: contrast(2) brightness(0.8) saturate(1.5);
 }

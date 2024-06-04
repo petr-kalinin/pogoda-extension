@@ -6,9 +6,9 @@ function sleep(ms) {
 
 async function animate() {
     const el = document.getElementsByClassName("Timeline__item_selected")[0]
-    const els = document.getElementsByClassName("ckkYxF")[0].children
+    const els = el.parentElement.parentElement.children[0].children
     for (let i = 0; i < count; i++) {
-        els[els.length - count + i].children[0].children[0].click();
+        els[els.length - count + i].children[0].click();
         await sleep(2000);
     }
     el.click();

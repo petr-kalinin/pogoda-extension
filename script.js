@@ -16,4 +16,5 @@ async function animate() {
 
 window.addEventListener("load", (e) => {
     window.setTimeout(animate, 2000);
+    window.setTimeout((()=>location.reload()), 60000)
 });

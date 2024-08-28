@@ -4,9 +4,9 @@
 .yandex-header__content, .sc-8800060-0 {
     display: none !important;
 }
-.ymaps-2-1-79-ground-pane, .MultitypeMap_realApiContainer__3TBkW  {
+.ymaps3x0--main-engine-container {
     filter: grayscale(1);
 }
-.ymaps-2-1-79-weather-pane, .CanvasLayer_layer__light-overlay__MJOTD {
+.ymaps-2-1-79-weather-pane, .CanvasLayer_layer__light-overlay__MJOTD, .map-canvas-layer_nowcast {
     filter: contrast(2) brightness(0.8) saturate(1.5);
 }
